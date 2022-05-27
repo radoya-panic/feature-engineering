@@ -11,3 +11,8 @@ Survey data from a survey conducted by Fabio Mendoza Palechor and Alexis de la H
 - sequential backward floating selection
 - recursive feature elimination
 
+### Logistic regression with regularisation
+A set of logistic regression models were trained on a [dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality) from the UCI Machine Learning Repository on wine quality using sci-kit learn. The goal of the project was to:
+1. implement different logistici classifiers
+2. find the best ridge-regularized classifier using hyperparameter tuning
+3. implement a tuned lasso-regularised feature selection method
